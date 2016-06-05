@@ -1,0 +1,4 @@
+board_config.cpp boards/BeagleBoard/beaglebone-black
+board.txt boards/BeagleBoard/beaglebone-black
+icons boards/BeagleBoard/beaglebone-black
+pins_arduino.h boards/BeagleBoard/beaglebone-black

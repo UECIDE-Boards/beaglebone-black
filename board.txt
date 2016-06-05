@@ -1,0 +1,15 @@
+name=beaglebone-black
+description=BeagleBone Black
+
+group=BeagleBoard
+board=_BOARD_BEAGLEBONE_BLACK_
+family=linux
+core=linux
+compiler=arm-linux-gnueabihf-gcc
+
+icon.128=icons/bbb128.png
+icon.64=icons/bbb64.png
+icon.48=icons/bbb48.png
+icon.32=icons/bbb32.png
+icon.22=icons/bbb22.png
+icon.16=icons/bbb16.png

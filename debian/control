@@ -1,0 +1,18 @@
+Source: beaglebone-black
+Section: boards
+XBSC-Family: linux
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: beaglebone-black
+Section: boards
+Architecture: all
+Depends: linux
+XBSC-Group: BeagleBoard
+XBSC-Subgroup: 
+Description: BeagleBone Black
+
+
+
